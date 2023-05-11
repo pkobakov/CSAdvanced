@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\bin\Debug\net6.0\Reverse a String.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\bin\Debug\net6.0\Reverse a String.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\bin\Debug\net6.0\Reverse a String.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\bin\Debug\net6.0\Reverse a String.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\bin\Debug\net6.0\Reverse a String.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\refint\Reverse a String.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\Reverse a String.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Lab\Stacks@Queues - Lab\Reverse a String\obj\Debug\net6.0\ref\Reverse a String.dll

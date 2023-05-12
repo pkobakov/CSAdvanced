@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack Sum", "Stack Sum\Stac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Calculator", "Simple Calculator\Simple Calculator.csproj", "{58150AC0-3DC3-4CF2-BA6E-599F6DC3DD7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matching Brackets", "Matching Brackets\Matching Brackets.csproj", "{57797B62-9ECB-4D2C-99C0-5F4D0AEF775B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matching Brackets", "Matching Brackets\Matching Brackets.csproj", "{57797B62-9ECB-4D2C-99C0-5F4D0AEF775B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hot Potato", "Hot Potato\Hot Potato.csproj", "{DC9C5605-FC3C-4B84-8C0C-DE02BF3AD577}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{57797B62-9ECB-4D2C-99C0-5F4D0AEF775B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57797B62-9ECB-4D2C-99C0-5F4D0AEF775B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57797B62-9ECB-4D2C-99C0-5F4D0AEF775B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9C5605-FC3C-4B84-8C0C-DE02BF3AD577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9C5605-FC3C-4B84-8C0C-DE02BF3AD577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9C5605-FC3C-4B84-8C0C-DE02BF3AD577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9C5605-FC3C-4B84-8C0C-DE02BF3AD577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

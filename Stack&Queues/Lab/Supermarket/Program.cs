@@ -8,7 +8,7 @@ while (input != "End")
 	{
         while (customers.Count > 0) 
         {
-            Console.WriteLine(  customers.Dequeue());
+            Console.WriteLine(customers.Dequeue());
         }
        
 	}
@@ -23,4 +23,4 @@ while (input != "End")
     input = Console.ReadLine();
 }
 
-Console.WriteLine($"{customers.Count} people remaining");
+Console.WriteLine($"{customers.Count} people remaining.");

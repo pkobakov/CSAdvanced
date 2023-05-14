@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\refint\Basic Stack Operations.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Stack Operations\obj\Debug\net6.0\ref\Basic Stack Operations.dll

@@ -4,7 +4,7 @@ var numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
 
 
-bool result = false;
+string result ;
 var stack = new Stack<int>();
 int min = int.MaxValue;
 
@@ -20,7 +20,7 @@ for (int i = 0; i < conditions[1]; i++)
 
 if (stack.Contains(conditions[2])) 
 {
-    result = true;
+    result = "true";
     Console.WriteLine(result); return;
 }
 

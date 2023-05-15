@@ -29,10 +29,9 @@ for (int i = 0; i < commandsCount; i++)
     }
 }
 
-if (stack.Any()) 
-{
+
    var result = stack.ToArray();
    Console.WriteLine( string.Join( ", ", result)); 
-}
+
 
 

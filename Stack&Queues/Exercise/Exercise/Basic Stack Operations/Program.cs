@@ -1,45 +1,52 @@
 ﻿var conditions = Console.ReadLine().Split().Select(int.Parse).ToArray();
 var numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
+var n = conditions[0];
+var s = conditions[1];
+var x = conditions[2];
 
 
 
-string result ;
+string result  =null ;
 var stack = new Stack<int>();
-int min = int.MaxValue;
 
-for (int i = 0; i < conditions[0]; i++)
+for (int i = 0; i < n; i++)
 {
     stack.Push(numbers[i]);
 }
 
-for (int i = 0; i < conditions[1]; i++)
+for (int i = 0; i < s; i++)
 {
-    stack.Pop();
+    if (stack.Any())
+    {
+        stack.Pop();
+
+    }
+    else 
+    { 
+        break;
+    }
 }
 
-if (stack.Contains(conditions[2])) 
+if (stack.Contains(x))
 {
     result = "true";
-    Console.WriteLine(result); return;
 }
-
-if (stack.Count == 0)
+else 
 {
-    Console.WriteLine(stack.Count); return; 
-}
 
-if (stack.Count > 0 && !stack.Contains(conditions[1])) 
-{
-    for (int i = 0; i < stack.Count; i++)
+    if (stack.Count == 0)
     {
-        if (stack.Peek() < min)
-        {
-            min = stack.Pop(); 
-        }
+        result = "0"; 
     }
 
-    Console.WriteLine(min); return;
+    else
+    {
+         
+        result = $"{stack.Min()}";
+         
+    }
+
 }
 
-
+Console.WriteLine(result);

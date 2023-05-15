@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\refint\Basic Queue Operations.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Basic Queue Operations\obj\Debug\net6.0\ref\Basic Queue Operations.dll

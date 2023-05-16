@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Elements", "Sum 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Columns", "Sum Matrix Columns\Sum Matrix Columns.csproj", "{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary Diagonal", "Primary Diagonal\Primary Diagonal.csproj", "{20552A4F-F77A-458E-AE28-2A60F3186111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square with Maximum Sum", "Square with Maximum Sum\Square with Maximum Sum.csproj", "{EF1CE366-3120-4081-A2C8-6146E019A814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20552A4F-F77A-458E-AE28-2A60F3186111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20552A4F-F77A-458E-AE28-2A60F3186111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20552A4F-F77A-458E-AE28-2A60F3186111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20552A4F-F77A-458E-AE28-2A60F3186111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1CE366-3120-4081-A2C8-6146E019A814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1CE366-3120-4081-A2C8-6146E019A814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1CE366-3120-4081-A2C8-6146E019A814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1CE366-3120-4081-A2C8-6146E019A814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

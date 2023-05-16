@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F00B64B6-FBE9-41D1-92FA-89643AA41542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Elements", "Sum Matrix Elements\Sum Matrix Elements.csproj", "{0A4FF743-2063-4FBA-9B68-88047583DDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00B64B6-FBE9-41D1-92FA-89643AA41542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00B64B6-FBE9-41D1-92FA-89643AA41542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00B64B6-FBE9-41D1-92FA-89643AA41542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00B64B6-FBE9-41D1-92FA-89643AA41542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4FF743-2063-4FBA-9B68-88047583DDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4FF743-2063-4FBA-9B68-88047583DDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4FF743-2063-4FBA-9B68-88047583DDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4FF743-2063-4FBA-9B68-88047583DDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E670227B-5B25-4F75-A592-E74A85618E44}
+	EndGlobalSection
+EndGlobal

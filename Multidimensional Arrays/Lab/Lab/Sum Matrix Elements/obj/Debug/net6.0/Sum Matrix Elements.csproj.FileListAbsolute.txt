@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\bin\Debug\net6.0\Sum Matrix Elements.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\refint\Sum Matrix Elements.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\Sum Matrix Elements.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Sum Matrix Elements\obj\Debug\net6.0\ref\Sum Matrix Elements.dll

@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fashion Boutique", "Fashion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs Queue", "Songs Queue\Songs Queue.csproj", "{18640BB7-7CF4-42AA-AEE5-9ACAF5133758}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truck Tour", "Truck Tour\Truck Tour.csproj", "{1B42EF00-52F7-4A36-AF40-DF3235F60B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{18640BB7-7CF4-42AA-AEE5-9ACAF5133758}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18640BB7-7CF4-42AA-AEE5-9ACAF5133758}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18640BB7-7CF4-42AA-AEE5-9ACAF5133758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B42EF00-52F7-4A36-AF40-DF3235F60B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B42EF00-52F7-4A36-AF40-DF3235F60B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B42EF00-52F7-4A36-AF40-DF3235F60B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B42EF00-52F7-4A36-AF40-DF3235F60B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

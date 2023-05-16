@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Elements", "Sum Matrix Elements\Sum Matrix Elements.csproj", "{0A4FF743-2063-4FBA-9B68-88047583DDEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Columns", "Sum Matrix Columns\Sum Matrix Columns.csproj", "{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A4FF743-2063-4FBA-9B68-88047583DDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A4FF743-2063-4FBA-9B68-88047583DDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A4FF743-2063-4FBA-9B68-88047583DDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

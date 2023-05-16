@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\bin\Debug\net6.0\Square with Maximum Sum.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\refint\Square with Maximum Sum.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\Square with Maximum Sum.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Square with Maximum Sum\obj\Debug\net6.0\ref\Square with Maximum Sum.dll

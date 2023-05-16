@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\bin\Debug\net6.0\Primary Diagonal.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\refint\Primary Diagonal.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\Primary Diagonal.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Primary Diagonal\obj\Debug\net6.0\ref\Primary Diagonal.dll

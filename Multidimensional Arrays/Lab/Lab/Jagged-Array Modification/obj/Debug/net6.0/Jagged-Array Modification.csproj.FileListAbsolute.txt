@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\bin\Debug\net6.0\Jagged-Array Modification.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\bin\Debug\net6.0\Jagged-Array Modification.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\bin\Debug\net6.0\Jagged-Array Modification.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\bin\Debug\net6.0\Jagged-Array Modification.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\bin\Debug\net6.0\Jagged-Array Modification.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\refint\Jagged-Array Modification.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\Jagged-Array Modification.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Lab\Lab\Jagged-Array Modification\obj\Debug\net6.0\ref\Jagged-Array Modification.dll

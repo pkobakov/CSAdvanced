@@ -20,7 +20,7 @@ int secondary = 0;
 for (int i = 0; i < size; i++) 
 {
     primary += square[i, i];
-    secondary += square[size-i-1, i];
+    secondary += square[i, size-i-1];
 
 }
 

@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\bin\Debug\net6.0\Maximal Sum.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\bin\Debug\net6.0\Maximal Sum.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\bin\Debug\net6.0\Maximal Sum.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\bin\Debug\net6.0\Maximal Sum.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\bin\Debug\net6.0\Maximal Sum.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\refint\Maximal Sum.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\Maximal Sum.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Maximal Sum\obj\Debug\net6.0\ref\Maximal Sum.dll

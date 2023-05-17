@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F00B64B6-FBE9-41D1-92FA-89643AA41542}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{F00B64B6-FBE9-41D1-92FA-89643AA41542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Elements", "Sum Matrix Elements\Sum Matrix Elements.csproj", "{0A4FF743-2063-4FBA-9B68-88047583DDEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Matrix Elements", "Sum Matrix Elements\Sum Matrix Elements.csproj", "{0A4FF743-2063-4FBA-9B68-88047583DDEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Matrix Columns", "Sum Matrix Columns\Sum Matrix Columns.csproj", "{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Matrix Columns", "Sum Matrix Columns\Sum Matrix Columns.csproj", "{2CC2F9B9-DF08-4FF1-818B-51067C8EE490}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primary Diagonal", "Primary Diagonal\Primary Diagonal.csproj", "{20552A4F-F77A-458E-AE28-2A60F3186111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primary Diagonal", "Primary Diagonal\Primary Diagonal.csproj", "{20552A4F-F77A-458E-AE28-2A60F3186111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square with Maximum Sum", "Square with Maximum Sum\Square with Maximum Sum.csproj", "{EF1CE366-3120-4081-A2C8-6146E019A814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square with Maximum Sum", "Square with Maximum Sum\Square with Maximum Sum.csproj", "{EF1CE366-3120-4081-A2C8-6146E019A814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symbol in Matrix", "Symbol in Matrix\Symbol in Matrix.csproj", "{A570E3F4-A49A-4BB3-B53C-BC1B66198065}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{EF1CE366-3120-4081-A2C8-6146E019A814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF1CE366-3120-4081-A2C8-6146E019A814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF1CE366-3120-4081-A2C8-6146E019A814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A570E3F4-A49A-4BB3-B53C-BC1B66198065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A570E3F4-A49A-4BB3-B53C-BC1B66198065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A570E3F4-A49A-4BB3-B53C-BC1B66198065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A570E3F4-A49A-4BB3-B53C-BC1B66198065}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

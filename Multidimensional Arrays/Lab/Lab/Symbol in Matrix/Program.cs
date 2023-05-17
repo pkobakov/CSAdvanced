@@ -21,7 +21,7 @@ for (int row = 0; row < rows; row++)
     {
         if (matrix[row,col] == symbol)
         {
-            Console.WriteLine(  $"({row}, {col})");
+            Console.WriteLine(  $"({row}, {col})"); return;
         }
     }
 }

@@ -37,6 +37,7 @@ while (command != "END")
         string temp = matrix[row1, col1];
         matrix[row1, col1] = matrix[row2, col2];
         matrix[row2, col2] = temp;
+
         PrintMatrix(matrix);
     }
 

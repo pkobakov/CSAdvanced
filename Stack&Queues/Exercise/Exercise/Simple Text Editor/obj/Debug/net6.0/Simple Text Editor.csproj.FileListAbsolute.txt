@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\bin\Debug\net6.0\Simple Text Editor.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\refint\Simple Text Editor.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\Simple Text Editor.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Stack&Queues\Exercise\Exercise\Simple Text Editor\obj\Debug\net6.0\ref\Simple Text Editor.dll

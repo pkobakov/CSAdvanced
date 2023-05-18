@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\refint\Count Same Values in Array.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Lab\Count Same Values in Array\obj\Debug\net6.0\ref\Count Same Values in Array.dll

@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\bin\Debug\net6.0\Miner.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\bin\Debug\net6.0\Miner.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\bin\Debug\net6.0\Miner.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\bin\Debug\net6.0\Miner.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\bin\Debug\net6.0\Miner.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\refint\Miner.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\Miner.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Miner\obj\Debug\net6.0\ref\Miner.dll

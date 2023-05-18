@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\Radioactive Mutant Vampire Bunnies.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\refint\Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\ref\Radioactive Mutant Vampire Bunnies.dll

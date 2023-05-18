@@ -1,14 +1,15 @@
-﻿var dimensions = Console.ReadLine().Split()
+﻿int [] dimensions = Console.ReadLine().Split()
                                    .Select(int.Parse)
                                    .ToArray();
 
-int rows = dimensions[0], columns = dimensions[1];
+int rows = dimensions[0];
+int columns = dimensions[1];
 
-var matrix = new int[rows, columns];
+int [,] matrix = new int[rows, columns];
 
 for (int row = 0; row < rows; row++) 
 {
-    var figures = Console.ReadLine().Split()
+    var figures = Console.ReadLine().Split(" ",StringSplitOptions.RemoveEmptyEntries)
                                     .Select(int.Parse)
                                     .ToArray();
 
@@ -24,7 +25,7 @@ int maxCol = 0;
 
 for (int row = 0; row < rows - 2; row++)
 {
-    for (int col = 0; col < columns -2; col++)
+    for (int col = 0; col < columns - 2; col++)
     {
         int currentSum =
                  matrix[row, col] + matrix[row, col + 1] + matrix[row, col + 2] +

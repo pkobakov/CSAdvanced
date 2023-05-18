@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\bin\Debug\net6.0\Matrix Shuffling.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\refint\Matrix Shuffling.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\Matrix Shuffling.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Multidimensional Arrays\Exercise\Matrix Shuffling\obj\Debug\net6.0\ref\Matrix Shuffling.dll

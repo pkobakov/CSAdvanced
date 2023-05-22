@@ -27,7 +27,7 @@ while (command != "Revision")
 
 foreach (var currentShop in shopList.OrderBy(s => s.Key))
 {
-    Console.WriteLine( $"{currentShop.Key} -> " );
+    Console.WriteLine( $"{currentShop.Key}->" );
 
     foreach (var product in currentShop.Value)
     {

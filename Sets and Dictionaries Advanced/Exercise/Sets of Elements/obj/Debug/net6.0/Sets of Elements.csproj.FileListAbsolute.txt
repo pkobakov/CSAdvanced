@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\bin\Debug\net6.0\Sets of Elements.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\bin\Debug\net6.0\Sets of Elements.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\bin\Debug\net6.0\Sets of Elements.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\bin\Debug\net6.0\Sets of Elements.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\bin\Debug\net6.0\Sets of Elements.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\refint\Sets of Elements.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\Sets of Elements.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Sets of Elements\obj\Debug\net6.0\ref\Sets of Elements.dll

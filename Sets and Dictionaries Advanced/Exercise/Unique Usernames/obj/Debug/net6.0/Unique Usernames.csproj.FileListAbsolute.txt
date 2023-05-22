@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\bin\Debug\net6.0\Unique Usernames.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\bin\Debug\net6.0\Unique Usernames.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\bin\Debug\net6.0\Unique Usernames.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\bin\Debug\net6.0\Unique Usernames.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\bin\Debug\net6.0\Unique Usernames.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\refint\Unique Usernames.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\Unique Usernames.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Exercise\Unique Usernames\obj\Debug\net6.0\ref\Unique Usernames.dll

@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\bin\Debug\net6.0\Record Unique Names.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\bin\Debug\net6.0\Record Unique Names.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\bin\Debug\net6.0\Record Unique Names.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\bin\Debug\net6.0\Record Unique Names.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\bin\Debug\net6.0\Record Unique Names.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\refint\Record Unique Names.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\Record Unique Names.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Sets and Dictionaries Advanced\Lab\Record Unique Names\obj\Debug\net6.0\ref\Record Unique Names.dll

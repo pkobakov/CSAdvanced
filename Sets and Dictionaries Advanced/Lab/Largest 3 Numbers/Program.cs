@@ -1,6 +1,19 @@
 ﻿int[] array = Console.ReadLine().Split().Select(int.Parse).OrderByDescending(x => x).ToArray();
 
-for (int i = 0; i < 3; i++)
+if (array.Length < 3) 
 {
-    Console.Write(array[i] + " ");
-}  
+
+   for (int i = 0; i < array.Length; i++)
+   {
+       Console.Write(array[i] + " ");
+   }  
+
+}
+
+else
+{
+    for (int i = 0; i < 3; i++)
+    {
+        Console.Write(array[i] + " ");
+    }
+}

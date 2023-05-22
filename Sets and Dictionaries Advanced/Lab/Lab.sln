@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Record Unique Names", "Reco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Lot", "Parking Lot\Parking Lot.csproj", "{F06D8C0D-3644-40D3-B7D4-1543AC7BC0C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Party", "SoftUni Party\SoftUni Party.csproj", "{AF230BE1-F2CF-4DE4-8E3D-44B1706D7439}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F06D8C0D-3644-40D3-B7D4-1543AC7BC0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F06D8C0D-3644-40D3-B7D4-1543AC7BC0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F06D8C0D-3644-40D3-B7D4-1543AC7BC0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF230BE1-F2CF-4DE4-8E3D-44B1706D7439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF230BE1-F2CF-4DE4-8E3D-44B1706D7439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF230BE1-F2CF-4DE4-8E3D-44B1706D7439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF230BE1-F2CF-4DE4-8E3D-44B1706D7439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

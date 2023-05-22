@@ -16,7 +16,19 @@ while (input != "END")
             default:throw new ArgumentException("Invalid Car Number"); break;
     }
 
+    
+
     input = Console.ReadLine();
 }
 
-foreach (string arg in parkingLot) { Console.WriteLine(arg); }
+if (parkingLot.Count > 0) 
+{
+
+     foreach (string arg in parkingLot) { Console.WriteLine(arg); }
+
+}
+
+else
+{
+    Console.WriteLine("Parking Lot is Empty");
+}

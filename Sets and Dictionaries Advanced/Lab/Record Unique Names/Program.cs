@@ -10,5 +10,4 @@ for (int i = 0; i < n; i++)
     names.Add(name);
 }
 
-Console.WriteLine("-----");
 foreach (string name in names) { Console.WriteLine( name ); }

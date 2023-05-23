@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\bin\Debug\net6.0\OddLines.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\bin\Debug\net6.0\OddLines.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\bin\Debug\net6.0\OddLines.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\bin\Debug\net6.0\OddLines.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\bin\Debug\net6.0\OddLines.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\refint\OddLines.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\OddLines.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\StreamsFilesDirectories\Lab\OddLines\obj\Debug\net6.0\ref\OddLines.dll

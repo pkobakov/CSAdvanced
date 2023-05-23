@@ -16,10 +16,6 @@ for (int i = 0; i < input.Length; i++)
         myDictionary[currentSymbol] ++;
     
     }
-
-    
-
-
 }
 
 foreach (char symbol in myDictionary.Keys.OrderBy(x => x)) 

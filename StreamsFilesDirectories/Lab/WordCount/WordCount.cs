@@ -66,9 +66,6 @@
                             text.RemoveAt(text.IndexOf(word));
                         }
 
-                        
-
-                    
                     }
 
                     using (StreamWriter writer = new StreamWriter(outputFilePath))

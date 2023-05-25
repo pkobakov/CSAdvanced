@@ -26,9 +26,7 @@
                     
                        writer.WriteLine($"{row}. {line}");
                        line = reader.ReadLine();
-                       row++;
-                    
-                    
+                       row++;                    
                     }
                 }
                 

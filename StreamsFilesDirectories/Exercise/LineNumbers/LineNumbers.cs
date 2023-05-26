@@ -35,10 +35,7 @@
 
 
 
-            using (StreamWriter writer = new StreamWriter(outputFilePath))
-            {
-                writer.Write(stringBuilder.ToString());
-            }
+           File.AppendAllText( outputFilePath, stringBuilder.ToString() );  
         }
     }
 }

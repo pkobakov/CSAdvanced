@@ -15,6 +15,11 @@
 
         public static void CopyAllFiles(string inputPath, string outputPath)
         {
+            if (Directory.Exists(outputPath)) 
+            { 
+                 Directory.Delete(outputPath, true);
+            }
+
             Directory.CreateDirectory(outputPath);
             var files = Directory.GetFiles(inputPath);
             
@@ -23,10 +28,10 @@
                 File.Copy(file, Path.Combine(outputPath, Path.GetFileName(file)));
             }
 
-            foreach (var directory in Directory.GetDirectories(inputPath)) 
-            {
-                CopyAllFiles(directory, Path.Combine(outputPath, Path.GetFileName(directory)));
-            }
+            //foreach (var directory in Directory.GetDirectories(inputPath)) 
+            //{
+            //    CopyAllFiles(directory, Path.Combine(outputPath, Path.GetFileName(directory)));
+            //}
         }
     }
 }

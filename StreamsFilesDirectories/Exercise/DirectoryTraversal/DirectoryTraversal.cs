@@ -10,7 +10,7 @@
     {
         static void Main()
         {
-            string path = "C:\\Users\\Petar Kobakov\\Desktop";//Console.ReadLine();
+            string path = Console.ReadLine();
             string reportFileName = @"\report.txt";
 
             string reportContent = TraverseDirectory(path);

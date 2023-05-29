@@ -7,14 +7,7 @@ Console.WriteLine(PrintUppercaseWords(input));
 static string PrintUppercaseWords(string text) 
 {
     var test = text.Split(' ', StringSplitOptions.RemoveEmptyEntries).ToArray();
-    var result = new List<string>();
     Func<string, bool> check = a => a.Any(x => char.IsUpper(x));
-    foreach (var word in test) 
-    {
-        if (check(word))
-        {
-            result.Add(word);
-        }
-    }
+    var result = test.Where(w => check(w)).ToList();
     return $"{string.Join(Environment.NewLine, result)}";
 }

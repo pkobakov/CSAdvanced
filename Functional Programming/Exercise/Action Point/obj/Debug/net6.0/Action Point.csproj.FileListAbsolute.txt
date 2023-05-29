@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\bin\Debug\net6.0\Action Point.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\bin\Debug\net6.0\Action Point.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\bin\Debug\net6.0\Action Point.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\bin\Debug\net6.0\Action Point.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\bin\Debug\net6.0\Action Point.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\refint\Action Point.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\Action Point.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Functional Programming\Exercise\Action Point\obj\Debug\net6.0\ref\Action Point.dll

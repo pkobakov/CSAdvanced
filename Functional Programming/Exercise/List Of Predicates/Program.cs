@@ -26,6 +26,6 @@ foreach (int number in numbers)
 
     if (isDivisible) 
     {
-        Console.WriteLine(number);
+        Console.Write($"{number} ");
     }
 }

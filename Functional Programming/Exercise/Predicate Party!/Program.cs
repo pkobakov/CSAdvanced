@@ -41,15 +41,7 @@ if (!names.Any())
 
 else
 {
-    if (names.Count == 1)
-    {
-        Console.WriteLine($"{string.Join(" ", names)}is going to the party!");
-    }
-    else 
-    {
-        Console.WriteLine($"{string.Join(", ", names)} are going to the party!");
-    
-    }
+    Console.WriteLine($"{string.Join(", ", names)} are going to the party!");
 }
 
 

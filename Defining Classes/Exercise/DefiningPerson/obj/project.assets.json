@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Defining Classes\\Define Class Person\\DefiningClasses.csproj",
+      "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Defining Classes\\Exercise\\DefiningPerson\\DefiningClasses.csproj",
       "projectName": "DefiningClasses",
-      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Defining Classes\\Define Class Person\\DefiningClasses.csproj",
+      "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Defining Classes\\Exercise\\DefiningPerson\\DefiningClasses.csproj",
       "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Defining Classes\\Define Class Person\\obj\\",
+      "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Defining Classes\\Exercise\\DefiningPerson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

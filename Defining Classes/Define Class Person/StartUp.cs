@@ -5,15 +5,24 @@
 	{
 		public static void Main(string[] args)
 		{
-			
 
-			Person person1 = new Person();
-			Person person2 = new Person(18);
-			Person person3 = new Person("Jose", 43);
 
-            Console.WriteLine(person1.Name);
-			Console.WriteLine(person2.Age);
-			Console.WriteLine(person3.Name);
+			int n = int.Parse(Console.ReadLine());
+
+			Family family = new Family();
+
+			for (int i = 0; i < n; i++)
+			{
+				string [] personArgs = Console.ReadLine().Split().ToArray();
+
+				Person person = new Person(personArgs[0], int.Parse(personArgs[1]));
+				family.AddMember(person);
+			}
+
+			Person oldest = family.GetOldestMember();
+			Console.WriteLine($"{oldest.Name} {oldest.Age}");
+
+          
         }
 	}
 }

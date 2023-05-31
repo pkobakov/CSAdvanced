@@ -1,6 +1,5 @@
-﻿namespace Person
-{
-    using DefiningClasses;
+﻿namespace DefiningClasses
+{ 
     using System;
     public class StartUp
     {
@@ -18,8 +17,10 @@
                 family.AddMember(person);
             }
 
-            Person oldest = family.GetOldestMember();
-            Console.WriteLine($"{oldest.Name} {oldest.Age}");
+            foreach (var person in family.People.Where(p => p.Age > 30).OrderBy(p => p.Name)) 
+            {
+                Console.WriteLine($"{person.Name} - {person.Age}");
+            }
         }
 	}
 }

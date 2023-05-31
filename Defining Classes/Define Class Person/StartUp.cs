@@ -7,9 +7,13 @@
 		{
 			
 
-			Person person1 = new Person("Peter", 20);
-			Person person2 = new Person("George", 18);
+			Person person1 = new Person();
+			Person person2 = new Person(18);
 			Person person3 = new Person("Jose", 43);
-		}
+
+            Console.WriteLine(person1.Name);
+			Console.WriteLine(person2.Age);
+			Console.WriteLine(person3.Name);
+        }
 	}
 }

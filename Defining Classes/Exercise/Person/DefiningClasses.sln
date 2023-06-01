@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "..\DateModifier\DateModifier\DateModifier.csproj", "{33F40C86-1571-4E37-B5FF-7A1B47D709F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{90047C6D-AC67-41D0-BF7F-73112D517180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{33F40C86-1571-4E37-B5FF-7A1B47D709F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33F40C86-1571-4E37-B5FF-7A1B47D709F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33F40C86-1571-4E37-B5FF-7A1B47D709F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90047C6D-AC67-41D0-BF7F-73112D517180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90047C6D-AC67-41D0-BF7F-73112D517180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90047C6D-AC67-41D0-BF7F-73112D517180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90047C6D-AC67-41D0-BF7F-73112D517180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

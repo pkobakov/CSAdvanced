@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\bin\Debug\net6.0\SpeedRacing.exe
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\bin\Debug\net6.0\SpeedRacing.deps.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\bin\Debug\net6.0\SpeedRacing.runtimeconfig.json
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\bin\Debug\net6.0\SpeedRacing.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\bin\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\refint\SpeedRacing.dll
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.pdb
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\SpeedRacing.genruntimeconfig.cache
+C:\Users\Petar Kobakov\Desktop\CSAdvanced\Defining Classes\Exercise\Person\SpeedRacing\obj\Debug\net6.0\ref\SpeedRacing.dll

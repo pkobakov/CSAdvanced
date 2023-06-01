@@ -5,9 +5,11 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csproj", "{35CE1FBF-3D8C-47A4-875A-1AB8991FC8C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "..\DateModifier\DateModifier\DateModifier.csproj", "{33F40C86-1571-4E37-B5FF-7A1B47D709F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateModifier", "..\DateModifier\DateModifier\DateModifier.csproj", "{33F40C86-1571-4E37-B5FF-7A1B47D709F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{90047C6D-AC67-41D0-BF7F-73112D517180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{90047C6D-AC67-41D0-BF7F-73112D517180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawData", "RawData\RawData.csproj", "{2C700FCE-4676-42EE-9902-0E8E32EE2670}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{90047C6D-AC67-41D0-BF7F-73112D517180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90047C6D-AC67-41D0-BF7F-73112D517180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90047C6D-AC67-41D0-BF7F-73112D517180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C700FCE-4676-42EE-9902-0E8E32EE2670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C700FCE-4676-42EE-9902-0E8E32EE2670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C700FCE-4676-42EE-9902-0E8E32EE2670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C700FCE-4676-42EE-9902-0E8E32EE2670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

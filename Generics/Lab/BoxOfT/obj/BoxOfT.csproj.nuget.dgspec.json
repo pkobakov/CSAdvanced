@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\Lab\\BoxOfT\\BoxOfT.csproj": {}
+    "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\BoxOfT\\BoxOfT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\Lab\\BoxOfT\\BoxOfT.csproj": {
+    "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\BoxOfT\\BoxOfT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\Lab\\BoxOfT\\BoxOfT.csproj",
+        "projectUniqueName": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\BoxOfT\\BoxOfT.csproj",
         "projectName": "BoxOfT",
-        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\Lab\\BoxOfT\\BoxOfT.csproj",
+        "projectPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\BoxOfT\\BoxOfT.csproj",
         "packagesPath": "C:\\Users\\Petar Kobakov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\Lab\\BoxOfT\\obj\\",
+        "outputPath": "C:\\Users\\Petar Kobakov\\Desktop\\CSAdvanced\\Generics\\Lab\\BoxOfT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Petar Kobakov\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,8 +8,8 @@
 			int n = int.Parse(Console.ReadLine());
 			for (int i = 0; i < n; i++)
 			{
-			   string s = Console.ReadLine();
-			   Box<string> box = new Box<string>(s);
+			   int s = int.Parse(Console.ReadLine());
+			   Box<int> box = new Box<int>(s);
                Console.WriteLine(box);
 
 			}

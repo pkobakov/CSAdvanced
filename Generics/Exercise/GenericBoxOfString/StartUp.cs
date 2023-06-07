@@ -6,18 +6,18 @@
 		public static void Main(string[] args)
 		{
 			int n = int.Parse(Console.ReadLine());
-			Box<string> box = new Box<string>();
+			Box<double> box = new Box<double>();
 			
 			for (int i = 0; i < n; i++)
 			{
-			   string element = Console.ReadLine();
+			   double element = double.Parse(Console.ReadLine());
 
 			   box.Add(element);
                //Console.WriteLine(box);
 
 			}
 
-			string value = Console.ReadLine();
+			double value = double.Parse(Console.ReadLine());
 
             Console.WriteLine(box.Count(value));
         }

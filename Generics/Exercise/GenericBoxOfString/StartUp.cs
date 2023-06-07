@@ -6,13 +6,20 @@
 		public static void Main(string[] args)
 		{
 			int n = int.Parse(Console.ReadLine());
+			Box<string> box = new Box<string>();
+			
 			for (int i = 0; i < n; i++)
 			{
-			   int s = int.Parse(Console.ReadLine());
-			   Box<int> box = new Box<int>(s);
-               Console.WriteLine(box);
+			   string element = Console.ReadLine();
+
+			   box.Add(element);
+               //Console.WriteLine(box);
 
 			}
+
+			string value = Console.ReadLine();
+
+            Console.WriteLine(box.Count(value));
         }
 	}
 }

@@ -9,11 +9,11 @@
 		{
 			int n = int.Parse(Console.ReadLine());
 
-	        SwapStrings<string> swapStrings = new SwapStrings<string>();
-
-			for (int i = 0; i < n; i++)
+            //SwapStrings<string> swapStrings = new SwapStrings<string>();
+            SwapStrings<int> swapStrings = new SwapStrings<int>();
+            for (int i = 0; i < n; i++)
 			{
-				swapStrings.Add(Console.ReadLine());
+				swapStrings.Add(int.Parse(Console.ReadLine()));
 			}
 
 			int[] indexes = Console.ReadLine().Split().Select(int.Parse).ToArray();

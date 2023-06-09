@@ -36,8 +36,12 @@ namespace VetClinic
             if (this.data.Any())
             {
                 Pet pet = this.data.FirstOrDefault(p => p.Name == name);
-                this.data.Remove(pet);
-                return true;
+                if (pet != null) 
+                {
+                    this.data.Remove(pet);
+                    return true;
+                
+                }
             }
             return false;
         }

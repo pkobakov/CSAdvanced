@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Text;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace _01._Tiles_Master
 {
@@ -79,7 +81,6 @@ namespace _01._Tiles_Master
 				{ "Countertop", counterTopTiles}    
 			
 			};
-				
 
             StringBuilder stringBuilder = new StringBuilder();
 		    string whiteTilesLeft = whiteTiles.Count == 0 ? "none" : string.Join(", ",whiteTiles);
@@ -90,16 +91,9 @@ namespace _01._Tiles_Master
 			foreach (var entry in decoratedLocations.Where(v => v.Value > 0).OrderByDescending(l => l.Value).ThenBy(k => k.Key)) 
 			{
 				stringBuilder.AppendLine($"{entry.Key}: {entry.Value}");
-			
 			}
-			
-
-
 
 			Console.WriteLine(stringBuilder.ToString().TrimEnd());
-
-
-
         }
 	}
 }

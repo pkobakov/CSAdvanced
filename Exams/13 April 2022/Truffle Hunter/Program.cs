@@ -88,7 +88,7 @@ namespace TruffleHunter
 						trufflesEaten += CheckPositition(forest, boarRow, boarCol);
 						forest[boarRow, boarCol] = "-";
 
-						while (boarRow - 2 > 0) 
+						while (boarRow - 2 >= 0) 
 						{
                            trufflesEaten += CheckPositition(forest, boarRow -= 2, boarCol);
                            forest[boarRow, boarCol] = "-";
@@ -129,7 +129,7 @@ namespace TruffleHunter
                         trufflesEaten += CheckPositition(forest, boarRow, boarCol);
                         forest[boarRow, boarCol] = "-";
 
-						while (boarCol - 2 > 0) 
+						while (boarCol - 2 >= 0) 
 						{
                             trufflesEaten += CheckPositition(forest, boarRow, boarCol -= 2); ;
                             forest[boarRow, boarCol] = "-";

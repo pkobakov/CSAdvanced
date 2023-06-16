@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApocalypsePreparation", "ApocalypsePreparation\ApocalypsePreparation.csproj", "{8C02B0D6-D8E4-4B9C-A36C-242088E3952B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlindMansBuff", "BlindMansBuff\BlindMansBuff.csproj", "{66CD758C-5142-4DD0-9844-7FBE3B1FF2F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlindMansBuff", "BlindMansBuff\BlindMansBuff.csproj", "{66CD758C-5142-4DD0-9844-7FBE3B1FF2F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniKindergarten", "SoftUniKindergarten\SoftUniKindergarten.csproj", "{F9DE71EA-2064-473A-8F62-3CD01F22AD49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{66CD758C-5142-4DD0-9844-7FBE3B1FF2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66CD758C-5142-4DD0-9844-7FBE3B1FF2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66CD758C-5142-4DD0-9844-7FBE3B1FF2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DE71EA-2064-473A-8F62-3CD01F22AD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DE71EA-2064-473A-8F62-3CD01F22AD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DE71EA-2064-473A-8F62-3CD01F22AD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DE71EA-2064-473A-8F62-3CD01F22AD49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -22,44 +22,48 @@ namespace ConsoleApp
 			};
 
 
-			while (timesNeededToEarn.Count>0 && tasks.Count>0)
+			while (timesNeededToEarn.Count > 0 && tasks.Count>0)
 			{
 				int multiply = timesNeededToEarn.Peek() * tasks.Peek();
 
-				if (multiply > 0 && multiply < 60)
+				 
+				
+				if (multiply >= 0 && multiply <= 60)
 				{
-					timesNeededToEarn.Dequeue();
-					tasks.Pop();
 					tasksCounter["Darth Vader Ducky"]++;
-				}
-
-				else if (multiply > 61 && multiply < 120) 
-				{
                     timesNeededToEarn.Dequeue();
-                    tasks.Pop();
+                    tasks.Pop(); continue;
+                }
+
+				else if (multiply >= 61 && multiply <= 120) 
+				{
                     tasksCounter["Thor Ducky"]++;
+                    timesNeededToEarn.Dequeue();
+                    tasks.Pop(); continue;
                 }
 
-                else if (multiply > 121 && multiply < 180)
-                {
-                    timesNeededToEarn.Dequeue();
-                    tasks.Pop();
+                 else if (multiply > 121 && multiply < 180)
+                 {
                     tasksCounter["Big Blue Rubber Ducky"]++;
-                }
-
-                else if (multiply > 181 && multiply < 240)
-                {
                     timesNeededToEarn.Dequeue();
-                    tasks.Pop();
-                    tasksCounter["Small Yellow Rubber Ducky"]++;
-                }
+                    tasks.Pop(); continue;
+                 }
 
-				else if(multiply > 240)
-				{
+                 else if (multiply >= 181 && multiply <= 240)
+                 {
+                    tasksCounter["Small Yellow Rubber Ducky"]++;
+                    timesNeededToEarn.Dequeue();
+                    tasks.Pop(); continue;
+                 }
+
+				 else 
+				 {
 					int currentTaskValue = tasks.Pop();
 					currentTaskValue -= 2;
 					tasks.Push(currentTaskValue);
-				}
+					int t = timesNeededToEarn.Dequeue();
+					timesNeededToEarn.Enqueue(t);
+				 }
 
 
             }
